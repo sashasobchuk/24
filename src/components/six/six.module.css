@@ -1,0 +1,88 @@
+.six{
+     height: 30vw;
+    width: 100%;
+    background-color: #FF9900;
+    /*margin-left: 20%;*/
+}
+.main{
+    width: 60%;
+    margin-left: 20%;
+    /*border: solid green 1px;*/
+    height: 100%;
+
+}
+.main >h1{
+    /* Зв'яжіться з нами */
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 3vw;
+    /*line-height: 40px;*/
+    color: #FFFFFF;
+}
+.main >span{
+    /* Залиште номер телефону, і ми зв'яжемося з вами на протязі 5 хвилин. */
+
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2vw;
+    /*line-height: 21px;*/
+    /* identical to box height */
+    letter-spacing: 0.005em;
+
+    color: #FFFFFF;
+}
+
+.inputsUp{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2vw;
+}
+
+.name , .mail, .message{
+    font-family: inherit;
+    width: 100%;
+    border: 0;
+    border-bottom: 2px solid #ffc940 ;
+    outline: 0;
+    font-size: 1.3vw;
+    padding: 0.6vw 0;
+    background: transparent;
+    transition: border-color 0.2s;
+    color: white;
+    /*border: green 1px ;*/
+    /*padding: 10px;*/
+}
+.nameLabel , .Mail, .Message::placeholder{
+   color: #ffc940;
+    font-size: 1.3vw;
+
+;
+}
+.btn{
+    color:#ffc940;
+    font-size: 1vw;
+    /*font-weight: bold;*/
+    background-color:white;
+    outline: none;
+    border: 0;
+    /*color: #fff;*/
+    padding:0.8vw 0.9vw;
+    /*text-transform:uppercase;*/
+    margin-top:3vw;
+    border-radius:2px;
+    cursor:pointer;
+    /*position:relative;*/
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,75 @@
+.secondPage{
+    height: 100%;
+    display: grid;
+    grid-template-columns: 35% 65%
+}
+.left{
+    position: relative;
+}
+.leftImg{
+    height: 100%;
+    width: 100%;
+}
+.advert{
+    position: absolute;
+    /*width: 238px;*/
+    background-color: #ffb800;
+    z-index: 2;
+    right: 0;
+    bottom: 0;
+    mix-blend-mode: normal;
+    text-align: center;
+    color: #FFFFFF;
+    box-sizing: border-box;
+}
+.advert >span >span{
+    font-size: 4vw;
+
+}
+.advert> span{
+    /*margin: 10px;*/
+    font-size: 4vw;
+
+}
+.right{
+    padding: 20%;
+}
+.abouteUs{
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2vw;
+    line-height: 139.4%;
+    /* identical to box height, or 25px */
+    letter-spacing: 9.7px;
+    text-transform: uppercase;
+    color: #FF9900;
+}
+.whoWe{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 5vw;
+    line-height: 139.4%;
+    /* identical to box height, or 56px */
+    letter-spacing: 0.2px;
+    color: #000000;
+
+}
+.content{
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2vw;
+    line-height: 139.4%;
+    letter-spacing: 0.2px;
+    color: #7C7C7C;
+}
+
+
+
+
+
+
+
+

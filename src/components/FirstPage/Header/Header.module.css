@@ -1,0 +1,54 @@
+.footer{
+    position: relative;
+    width: 100%;
+    min-width: 100%;
+    height: 54px;
+
+    background: rgba(0, 0, 0, 0.31);
+
+}
+.firstNumber , .secondNumber{
+    position: absolute;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.2vw;
+    color: #FFFFFF;
+    right: 40%;
+    top:30%;
+    size: 0.5rem;
+
+
+}
+.secondNumber{
+    right: 25%;
+    /*font-size: 2vw;*/
+
+}
+
+.icons{
+    position: absolute;
+    /*width: 30%;*/
+    right: 10%;
+    /*background-color: red;*/
+    /*margin: 10px;*/
+    bottom: 0;
+    max-height: 100%;
+
+}
+.fb{
+    background-color: transparent;
+    margin: 5px;
+
+}
+.inst{
+    background-color: transparent;
+    margin: 5px;
+
+}
+.In{
+    background-color: transparent;
+    margin: 5px;
+
+
+}

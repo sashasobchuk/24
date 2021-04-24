@@ -1,0 +1,51 @@
+.item{
+    position: relative;
+/*transform: scale(0.5);*/
+/*    height: 10vw;*/
+}
+
+
+.circle{
+    fill: transparent;
+    color: #ffb800;
+    transform: rotate(-90deg);
+    position: absolute;
+    /*bottom: 10px;*/
+
+}
+.text{
+    color: #FFFFFF;
+    position: absolute;
+    left: 40%    ;
+    bottom: 30%;
+    font-size: 3vw;
+    font-family: Playfair Display;
+    color: #FFFFFF;
+
+}
+.description{
+    position: absolute;
+    color: white;
+    bottom: -6vw;
+    font-size: 1vw;
+    width: 8vw;
+    /*top: 0%;*/
+    z-index: 0;
+}
+/*.linea{*/
+/*    position: absolute;*/
+/*    !*border-top: 1px white solid;*!*/
+/*    width: 50%;*/
+/*}*/
+
+
+
+
+
+
+
+
+
+
+
+

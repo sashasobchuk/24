@@ -1,0 +1,34 @@
+.contentComponent{
+    width: 50%;
+    margin-left: 25%;
+}
+.tittle{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3vw;
+    line-height: 139.4%;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+}
+.text{
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.5vw;
+    line-height: 139.4%;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+}
+.btnPutHere{
+margin-top: 50px;
+    font-size: 1.5vw;
+
+}
+.btnPutHere >span{
+    /*display: block;*/
+
+    padding: 10px;
+    background: #FF9900;
+    box-shadow: 1px 1px 18px 4px rgba(255, 153, 0, 0.32);
+}
