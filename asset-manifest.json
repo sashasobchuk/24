@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/24/static/css/main.32577f46.chunk.css",
-    "main.js": "/24/static/js/main.a1d4d36f.chunk.js",
-    "main.js.map": "/24/static/js/main.a1d4d36f.chunk.js.map",
-    "runtime-main.js": "/24/static/js/runtime-main.c045d665.js",
-    "runtime-main.js.map": "/24/static/js/runtime-main.c045d665.js.map",
-    "static/js/2.e1c2c6fd.chunk.js": "/24/static/js/2.e1c2c6fd.chunk.js",
-    "static/js/2.e1c2c6fd.chunk.js.map": "/24/static/js/2.e1c2c6fd.chunk.js.map",
-    "static/js/3.297ed946.chunk.js": "/24/static/js/3.297ed946.chunk.js",
-    "static/js/3.297ed946.chunk.js.map": "/24/static/js/3.297ed946.chunk.js.map",
-    "index.html": "/24/index.html",
-    "static/css/main.32577f46.chunk.css.map": "/24/static/css/main.32577f46.chunk.css.map",
-    "static/js/2.e1c2c6fd.chunk.js.LICENSE.txt": "/24/static/js/2.e1c2c6fd.chunk.js.LICENSE.txt",
-    "static/media/1.3d17fc8b.png": "/24/static/media/1.3d17fc8b.png",
-    "static/media/1.48c97c62.png": "/24/static/media/1.48c97c62.png",
-    "static/media/2png.395d75b3.png": "/24/static/media/2png.395d75b3.png",
-    "static/media/3.13a7b803.png": "/24/static/media/3.13a7b803.png",
-    "static/media/5.458aead6.png": "/24/static/media/5.458aead6.png",
-    "static/media/IMG-519014695cc4d76f64d23f95fcac3dc2-V 1.e8ec8f2e.png": "/24/static/media/IMG-519014695cc4d76f64d23f95fcac3dc2-V 1.e8ec8f2e.png",
-    "static/media/charles-deluvio-c2thq3SXJiA-unsplash 1.e52163e7.png": "/24/static/media/charles-deluvio-c2thq3SXJiA-unsplash 1.e52163e7.png",
-    "static/media/FirstPage.module.css": "/24/static/media/electrician-installer-with-tool-his-hands-working-with-cable-construction-site 1.bbff4f49.png"
+    "main.css": "/verstka1/static/css/main.cdcd40da.chunk.css",
+    "main.js": "/verstka1/static/js/main.c3254b8a.chunk.js",
+    "main.js.map": "/verstka1/static/js/main.c3254b8a.chunk.js.map",
+    "runtime-main.js": "/verstka1/static/js/runtime-main.a15a6cc5.js",
+    "runtime-main.js.map": "/verstka1/static/js/runtime-main.a15a6cc5.js.map",
+    "static/js/2.e1c2c6fd.chunk.js": "/verstka1/static/js/2.e1c2c6fd.chunk.js",
+    "static/js/2.e1c2c6fd.chunk.js.map": "/verstka1/static/js/2.e1c2c6fd.chunk.js.map",
+    "static/js/3.297ed946.chunk.js": "/verstka1/static/js/3.297ed946.chunk.js",
+    "static/js/3.297ed946.chunk.js.map": "/verstka1/static/js/3.297ed946.chunk.js.map",
+    "index.html": "/verstka1/index.html",
+    "static/css/main.cdcd40da.chunk.css.map": "/verstka1/static/css/main.cdcd40da.chunk.css.map",
+    "static/js/2.e1c2c6fd.chunk.js.LICENSE.txt": "/verstka1/static/js/2.e1c2c6fd.chunk.js.LICENSE.txt",
+    "static/media/1.3d17fc8b.png": "/verstka1/static/media/1.3d17fc8b.png",
+    "static/media/1.48c97c62.png": "/verstka1/static/media/1.48c97c62.png",
+    "static/media/2png.395d75b3.png": "/verstka1/static/media/2png.395d75b3.png",
+    "static/media/3.13a7b803.png": "/verstka1/static/media/3.13a7b803.png",
+    "static/media/5.458aead6.png": "/verstka1/static/media/5.458aead6.png",
+    "static/media/IMG-519014695cc4d76f64d23f95fcac3dc2-V 1.e8ec8f2e.png": "/verstka1/static/media/IMG-519014695cc4d76f64d23f95fcac3dc2-V 1.e8ec8f2e.png",
+    "static/media/charles-deluvio-c2thq3SXJiA-unsplash 1.e52163e7.png": "/verstka1/static/media/charles-deluvio-c2thq3SXJiA-unsplash 1.e52163e7.png",
+    "static/media/FirstPage.module.css": "/verstka1/static/media/electrician-installer-with-tool-his-hands-working-with-cable-construction-site 1.bbff4f49.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c045d665.js",
+    "static/js/runtime-main.a15a6cc5.js",
     "static/js/2.e1c2c6fd.chunk.js",
-    "static/css/main.32577f46.chunk.css",
-    "static/js/main.a1d4d36f.chunk.js"
+    "static/css/main.cdcd40da.chunk.css",
+    "static/js/main.c3254b8a.chunk.js"
   ]
 }
