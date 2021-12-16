@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/verstka1/static/css/main.f865c893.chunk.css",
-    "main.js": "/verstka1/static/js/main.c3254b8a.chunk.js",
-    "main.js.map": "/verstka1/static/js/main.c3254b8a.chunk.js.map",
+    "main.js": "/verstka1/static/js/main.7a107bb3.chunk.js",
+    "main.js.map": "/verstka1/static/js/main.7a107bb3.chunk.js.map",
     "runtime-main.js": "/verstka1/static/js/runtime-main.a15a6cc5.js",
     "runtime-main.js.map": "/verstka1/static/js/runtime-main.a15a6cc5.js.map",
     "static/js/2.e1c2c6fd.chunk.js": "/verstka1/static/js/2.e1c2c6fd.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.a15a6cc5.js",
     "static/js/2.e1c2c6fd.chunk.js",
     "static/css/main.f865c893.chunk.css",
-    "static/js/main.c3254b8a.chunk.js"
+    "static/js/main.7a107bb3.chunk.js"
   ]
 }
