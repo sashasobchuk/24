@@ -15,10 +15,10 @@ function App() {
     return (
         <div>
             {/*<FirstPage/>*/}
-            <SecondPage/>
-            <ThirdPage/>
-            <ForthPage/>
-            <FifthPage/>
+            {/*<SecondPage/>*/}
+            {/*<ThirdPage/>*/}
+            {/*<ForthPage/>*/}
+            {/*<FifthPage/>*/}
             <Six/>
             <Seven/>
         </div>

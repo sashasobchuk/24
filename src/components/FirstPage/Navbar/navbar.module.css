@@ -1,12 +1,12 @@
-.navBarPage{
+.navBarPage {
     display: grid;
-    grid-template-columns: 25% 50% 25% ;
-        /*border: solid red 4px;*/
+    grid-template-columns: 25% 50% 25%;
+    /*border: solid red 4px;*/
     position: relative;
     align-items: center;
 }
 
-.navBar{
+.navBar {
     display: flex;
     /*grid-template-columns: repeat(5,1fr);*/
     flex-direction: row;
@@ -14,7 +14,7 @@
 
 }
 
-    .navBar >a{
+.navBar > a {
     display: block;
     text-decoration: none;
     font-family: Gilroy;
@@ -25,15 +25,14 @@
     /* identical to box height, or 444% */
     letter-spacing: 0.07em;
     color: #FF9900;
-    display: block;
-    text-decoration: none;
     text-wrap: none;
     overflow: visible;
     white-space: nowrap;
-        cursor: pointer;
+    cursor: pointer;
 
 }
-.logo{
+
+.logo {
     font-family: Gilroy;
     font-style: normal;
     font-weight: 900;
@@ -45,9 +44,9 @@
     justify-self: center;
 
 
-
 }
-.rightLogo{
+
+.rightLogo {
     font-family: Gilroy;
     font-style: normal;
     font-weight: bold;
@@ -61,70 +60,22 @@
 
 }
 
-@media(max-width:620px) {
-    .navBarPage{
-        display: flex;
-        flex-direction: column;
-        position: relative;
-        height: auto;
-        width: 100%;
+@media (max-width: 768px) {
+    .navBar > a {
+        display: block;
+        text-decoration: none;
+        font-family: Gilroy;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 3vw;
+        line-height: 80px;
+        /* identical to box height, or 444% */
+        letter-spacing: 0.07em;
+        color: #FF9900;
+        text-wrap: none;
+        overflow: visible;
+        white-space: nowrap;
+        cursor: pointer;
+
     }
-
-
-    .navBar{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-        width: 100%;
-
-    }
-
-    /*.navBar >a{*/
-    /*    display: block;*/
-    /*    text-decoration: none;*/
-    /*    font-family: Gilroy;*/
-    /*    font-style: normal;*/
-    /*    font-weight: normal;*/
-    /*    font-size: 2vh;*/
-    /*    !*line-height: 80px;*!*/
-    /*    !* identical to box height, or 444% *!*/
-    /*    letter-spacing: 0.07em;*/
-    /*    color: #FF9900;*/
-    /*    display: block;*/
-    /*    text-decoration: none;*/
-    /*    border: green 1px solid;*/
-    /*    text-wrap: none;*/
-    /*    overflow: visible;*/
-    /*    white-space: nowrap;*/
-
-    /*}*/
-    /*.logo{*/
-    /*    font-family: Gilroy;*/
-    /*    font-style: normal;*/
-    /*    font-weight: 900;*/
-    /*    font-size: 2vh;*/
-    /*    !*line-height: 80px;*!*/
-    /*    !* identical to box height, or 333% *!*/
-    /*    letter-spacing: 0.07em;*/
-    /*    color: #FF9900;*/
-    /*    justify-self: center;*/
-
-
-
-    /*}*/
-    /*.rightLogo{*/
-    /*    font-family: Gilroy;*/
-    /*    font-style: normal;*/
-    /*    font-weight: bold;*/
-    /*    !*font-size: 16px;*!*/
-    /*    !*line-height: 19px;*!*/
-    /*    !*display: flex;*!*/
-    /*    !*align-items: center;*!*/
-    /*    !*text-align: center;*!*/
-    /*    letter-spacing: -0.015em;*/
-    /*    color: #FF9900;*/
-    /*    justify-self: center;*/
-
-    /*}*/
-
 }
