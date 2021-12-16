@@ -14,16 +14,13 @@ import Seven from "./components/Seven/Seven";
 function App() {
     return (
         <div>
-            <FirstPage/>
-
+            {/*<FirstPage/>*/}
             <SecondPage/>
             <ThirdPage/>
             <ForthPage/>
             <FifthPage/>
             <Six/>
             <Seven/>
-
-
         </div>
     );
 }
