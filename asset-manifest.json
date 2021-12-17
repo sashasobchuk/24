@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/verstka1/static/css/main.f865c893.chunk.css",
-    "main.js": "/verstka1/static/js/main.7a107bb3.chunk.js",
-    "main.js.map": "/verstka1/static/js/main.7a107bb3.chunk.js.map",
+    "main.css": "/verstka1/static/css/main.ec50cc92.chunk.css",
+    "main.js": "/verstka1/static/js/main.63b94828.chunk.js",
+    "main.js.map": "/verstka1/static/js/main.63b94828.chunk.js.map",
     "runtime-main.js": "/verstka1/static/js/runtime-main.a15a6cc5.js",
     "runtime-main.js.map": "/verstka1/static/js/runtime-main.a15a6cc5.js.map",
-    "static/js/2.e1c2c6fd.chunk.js": "/verstka1/static/js/2.e1c2c6fd.chunk.js",
-    "static/js/2.e1c2c6fd.chunk.js.map": "/verstka1/static/js/2.e1c2c6fd.chunk.js.map",
+    "static/js/2.fcb8fdbc.chunk.js": "/verstka1/static/js/2.fcb8fdbc.chunk.js",
+    "static/js/2.fcb8fdbc.chunk.js.map": "/verstka1/static/js/2.fcb8fdbc.chunk.js.map",
     "static/js/3.297ed946.chunk.js": "/verstka1/static/js/3.297ed946.chunk.js",
     "static/js/3.297ed946.chunk.js.map": "/verstka1/static/js/3.297ed946.chunk.js.map",
     "index.html": "/verstka1/index.html",
-    "static/css/main.f865c893.chunk.css.map": "/verstka1/static/css/main.f865c893.chunk.css.map",
-    "static/js/2.e1c2c6fd.chunk.js.LICENSE.txt": "/verstka1/static/js/2.e1c2c6fd.chunk.js.LICENSE.txt",
+    "static/css/main.ec50cc92.chunk.css.map": "/verstka1/static/css/main.ec50cc92.chunk.css.map",
+    "static/js/2.fcb8fdbc.chunk.js.LICENSE.txt": "/verstka1/static/js/2.fcb8fdbc.chunk.js.LICENSE.txt",
     "static/media/1.3d17fc8b.png": "/verstka1/static/media/1.3d17fc8b.png",
-    "static/media/1.48c97c62.png": "/verstka1/static/media/1.48c97c62.png",
+    "static/media/TopSide.module.css": "/verstka1/static/media/1.48c97c62.png",
     "static/media/2png.395d75b3.png": "/verstka1/static/media/2png.395d75b3.png",
     "static/media/3.13a7b803.png": "/verstka1/static/media/3.13a7b803.png",
     "static/media/5.458aead6.png": "/verstka1/static/media/5.458aead6.png",
     "static/media/IMG-519014695cc4d76f64d23f95fcac3dc2-V 1.e8ec8f2e.png": "/verstka1/static/media/IMG-519014695cc4d76f64d23f95fcac3dc2-V 1.e8ec8f2e.png",
+    "static/media/burgerMenu.4af62c3a.png": "/verstka1/static/media/burgerMenu.4af62c3a.png",
     "static/media/charles-deluvio-c2thq3SXJiA-unsplash 1.e52163e7.png": "/verstka1/static/media/charles-deluvio-c2thq3SXJiA-unsplash 1.e52163e7.png",
     "static/media/FirstPage.module.css": "/verstka1/static/media/electrician-installer-with-tool-his-hands-working-with-cable-construction-site 1.bbff4f49.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a15a6cc5.js",
-    "static/js/2.e1c2c6fd.chunk.js",
-    "static/css/main.f865c893.chunk.css",
-    "static/js/main.7a107bb3.chunk.js"
+    "static/js/2.fcb8fdbc.chunk.js",
+    "static/css/main.ec50cc92.chunk.css",
+    "static/js/main.63b94828.chunk.js"
   ]
 }
