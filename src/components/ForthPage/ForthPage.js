@@ -23,15 +23,27 @@ const ForthPage = () => {
                     <img className={clas.leftFonImage} src={foto5} alt=""/>
                     <div className={clas.content}>
 
-                        <h1>Назва проекта</h1>
-                        <span className={clas.main}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam condimentum eros arcu, at aliquet
+                        <h2>Назва проекта</h2>
+                        <span className={clas.main}>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam condimentum eros arcu, at aliquet
                     tortor vestibulum ut. Quisque sed libero nec nulla pulvinar pharetra. Aliquam porttitor justo lorem,
                     at rhoncus nulla condimentum vitae. Cras vitae aliquet quam. Orci varius natoque penatibus et magnis
-                    dis parturient montes, nascetur ridiculus mus. Phasellus id quam nulla. </span>
-                        <div className={clas.firstLine}><span className={clas.time}>Термін ремонта:</span> <span
-                            className={clas.timeIs}> 21 день</span></div>
-                        <div className={clas.secondLine}><span className={clas.area}>Площа:</span> <span
-                            className={clas.areaIs}> 81 м <sup>2</sup></span></div>
+                    dis parturient montes, nascetur ridiculus mus. Phasellus id quam nulla.
+                        </span>
+                        <div className={clas.firstLine}>
+                            <span className={clas.time}>
+                                Термін ремонта:
+                            </span>
+                            <span className={clas.timeIs}>
+                                21 день
+                            </span>
+                        </div>
+                        <div className={clas.secondLine}>
+                            <span className={clas.area}>
+                                Площа:
+                            </span>
+                            <span className={clas.areaIs}> 81 м <sup>2</sup></span>
+                        </div>
                     </div>
                     <div className={clas.leftImages}>
                         <div><img src={foto1} alt="foto"/></div>

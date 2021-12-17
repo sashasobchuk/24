@@ -12,10 +12,9 @@ const Seven = () => {
                     <div className={clas.Logo}>LOGO</div>
                     <span className={clas.description}>Duis aute irure dolor in
                     reprehenderit in voluptate velit esse
-                    cillum dolore eu fugiat nulla pariatur.  </span>
+                    cillum dolore eu fugiat nulla pariatur.
+                    </span>
                 </div>
-
-
                 <div className={clas.secondTable}>
                     <div>Про нас</div>
                     <div>Портфоліо</div>
@@ -30,8 +29,6 @@ const Seven = () => {
                         (097)857-70-47
                     </div>
                 </div>
-
-
             </div>
             <div className={clas.fotos}>
                 <a href=''>

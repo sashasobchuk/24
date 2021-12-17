@@ -1,34 +1,106 @@
 .contentComponent{
-    width: 50%;
-    margin-left: 25%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    /*height: 100%;*/
+    /*margin-bottom: 2030px;*/
+
 }
+.tittleContainer{
+    display: flex;
+    justify-content: center;
+}
+
 .tittle{
     font-family: Playfair Display;
     font-style: normal;
     font-weight: normal;
-    font-size: 3vw;
+    font-size: 3.3vw;
     line-height: 139.4%;
     letter-spacing: 0.2px;
     color: #FFFFFF;
+    width: 90%;
+    text-align: center;
+}
+.textContainer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
 }
 .text{
     font-family: Gilroy;
     font-style: normal;
     font-weight: normal;
-    font-size: 1.5vw;
+    font-size: 2vw;
     line-height: 139.4%;
     letter-spacing: 0.2px;
     color: #FFFFFF;
+    width: 70%;
 }
 .btnPutHere{
-margin-top: 50px;
+    margin-top: 50px;
     font-size: 1.5vw;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
 
 }
-.btnPutHere >span{
-    /*display: block;*/
+.btnPutHere >*{
+    border-radius: 5px;
 
+    display: block;
+    overflow: hidden;
+    border: black solid;
+    text-decoration: none;
+    color: black;
     padding: 10px;
     background: #FF9900;
     box-shadow: 1px 1px 18px 4px rgba(255, 153, 0, 0.32);
+    cursor: pointer;
+
+}
+@media (max-width: 768px) {
+    .tittle{
+        width: 90%;
+        font-size: 4vw;
+    }
+    .text{
+        font-size: 2.5vw;
+        width: 90%;
+    }
+
+    .btnPutHere{
+        margin-top: 20px;
+        font-size: 2.5vw;
+    }
+}
+@media (max-width: 590px) {
+    .tittle{
+        width: 90%;
+        font-size: 4vw;
+    }
+    .text{
+        font-size: 2.5vw;
+        width: 90%;
+    }
+
+    .btnPutHere{
+        margin-top: 20px;
+        font-size: 2.5vw;
+    }
+}
+@media (max-width: 480px) {
+    .tittle{
+        width: 90%;
+        font-size: 6vw;
+    }
+    .text{
+        font-size: 3.5vw;
+        width: 90%;
+    }
+
+    .btnPutHere{
+        margin-top: 20px;
+        font-size: 3.5vw;
+    }
 }

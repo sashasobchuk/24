@@ -1,45 +1,59 @@
+.Page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 .item{
     position: relative;
-/*transform: scale(0.5);*/
-/*    height: 10vw;*/
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
-
 .circle{
+
     fill: transparent;
     color: #ffb800;
     transform: rotate(-90deg);
     position: absolute;
-    /*bottom: 10px;*/
-
 }
 .text{
     color: #FFFFFF;
     position: absolute;
-    left: 40%    ;
-    bottom: 30%;
-    font-size: 3vw;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
     font-family: Playfair Display;
     color: #FFFFFF;
 
 }
-.description{
-    position: absolute;
+.description {
+    display: flex;
+    max-width: 180px;
+    justify-content: center;
+    text-align: center;
+    position: relative;
     color: white;
-    bottom: -6vw;
-    font-size: 1vw;
-    width: 8vw;
-    /*top: 0%;*/
-    z-index: 0;
+    font-size: 17px;
+    margin-top: 15px;
 }
-/*.linea{*/
-/*    position: absolute;*/
-/*    !*border-top: 1px white solid;*!*/
-/*    width: 50%;*/
-/*}*/
 
 
 
+@media only screen and (max-width: 768px) {
+    .Page{
+        flex-direction: row;
+    }
+    .item{
+        margin: 10px;
+    }
+    .description{
+        padding: 10px;
+    }
+}
 
 
 

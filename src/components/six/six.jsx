@@ -4,7 +4,6 @@ import clas from './six.module.css'
 const Six = () => {
     return (
         <div className={clas.six}>
-
             <div className={clas.main}>
                 <h1> Зв'яжіться з нами</h1>
                 <span> Залиште номер телефону,

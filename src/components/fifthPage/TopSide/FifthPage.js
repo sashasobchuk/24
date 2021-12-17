@@ -2,11 +2,10 @@ import React from 'react';
 import clas from './TopSide.module.css'
 import img from  './../access/1.png'
 const FifthPage = () => {
-    return (<div>
+    return (
+        <div>
 
         <div className={clas.topSide}>
-            <img className={clas.MainImg} src={img} alt=""/>
-
             <div className={clas.middleSide}>
             <div className={clas.revie}>Відгуки</div>
                 <h1 className={clas.revie2}>Що про нас говорять наші клієнти</h1>
@@ -44,7 +43,6 @@ const FifthPage = () => {
                 </div>
 
             </div>
-
         </div>
         </div>
 

@@ -1,13 +1,12 @@
 .fullPage {
     position: relative;
-
 }
 
 .tittle {
     font-family: Gilroy;
     font-style: normal;
     font-weight: normal;
-    font-size: 2.3vw;
+    font-size: 26px;
     margin: 40px;
 }
 
@@ -16,7 +15,6 @@
     letter-spacing: 9.7px;
     text-transform: uppercase;
     color: #FF9900;
-    height: 2vw;
 }
 
 .bottomSide {
@@ -31,19 +29,18 @@
 
 .leftFonImage {
     position: absolute;
-
     bottom: 0;
     right: 0;
     width: 30vw;
     height: 30vw;
-
 }
 
 .content {
     text-align: left;
     width: 75%;
     margin-left: 10%;
-    font-size: 1vw;
+    font-size: 16px;
+    height: 144px;
 }
 
 .firstLine {
@@ -98,7 +95,7 @@
     font-family: Playfair Display;
     font-style: normal;
     font-weight: normal;
-    font-size: 5vw;
+    font-size: 33px;
     line-height: 139.4%;
     text-align: center;
     letter-spacing: 0.2px;
@@ -107,7 +104,6 @@
 
 .rightSite {
     position: relative;
-    /*width: 100%;*/
     height: 50vw;
 }
 .rightImg {
@@ -171,3 +167,50 @@
 
 }
 
+@media only screen and (max-width: 768px) {
+        .tittle{
+
+        }
+        .works{
+
+        }
+    .content{
+        /*font-size: 12px;*/
+
+    }
+    .content >h2{
+        margin: 2px;
+    }
+    .bottomSide {
+
+    }
+
+    .leftSite {
+        position: relative;
+    }
+
+
+}
+@media (max-width: 590px) {
+    .content{
+        font-size: 12px;
+        overflow-y: scroll;
+    }
+    .content:after{
+        content: "";
+        text-align: right;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        height: 1.2em;
+        background: linear-gradient(to bottom, rgba(255, 255, 255, 0), white 100%);
+        pointer-events: none;
+    }
+
+
+
+    .content >h2{
+        /*margin: 2px;*/
+    }
+}
