@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/verstka1/static/css/main.ec50cc92.chunk.css",
+    "main.css": "/verstka1/static/css/main.c7003ee5.chunk.css",
     "main.js": "/verstka1/static/js/main.63b94828.chunk.js",
     "main.js.map": "/verstka1/static/js/main.63b94828.chunk.js.map",
     "runtime-main.js": "/verstka1/static/js/runtime-main.a15a6cc5.js",
@@ -10,7 +10,7 @@
     "static/js/3.297ed946.chunk.js": "/verstka1/static/js/3.297ed946.chunk.js",
     "static/js/3.297ed946.chunk.js.map": "/verstka1/static/js/3.297ed946.chunk.js.map",
     "index.html": "/verstka1/index.html",
-    "static/css/main.ec50cc92.chunk.css.map": "/verstka1/static/css/main.ec50cc92.chunk.css.map",
+    "static/css/main.c7003ee5.chunk.css.map": "/verstka1/static/css/main.c7003ee5.chunk.css.map",
     "static/js/2.fcb8fdbc.chunk.js.LICENSE.txt": "/verstka1/static/js/2.fcb8fdbc.chunk.js.LICENSE.txt",
     "static/media/1.3d17fc8b.png": "/verstka1/static/media/1.3d17fc8b.png",
     "static/media/TopSide.module.css": "/verstka1/static/media/1.48c97c62.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.a15a6cc5.js",
     "static/js/2.fcb8fdbc.chunk.js",
-    "static/css/main.ec50cc92.chunk.css",
+    "static/css/main.c7003ee5.chunk.css",
     "static/js/main.63b94828.chunk.js"
   ]
 }
