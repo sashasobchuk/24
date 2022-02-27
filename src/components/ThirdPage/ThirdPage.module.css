@@ -13,6 +13,7 @@
     /*width: 80vw;*/
     padding-top: 100px;
     position: relative;
+    text-align: center;
 }
 
 
@@ -43,19 +44,22 @@
     display: flex;
     justify-content: space-around;
     position: relative;
+    flex-wrap: wrap;
 
 }
 .etaps >div{
     position: relative;
-
-
 }
 
+
 @media only screen and (max-width: 768px) {
-    .etaps{
-        flex-direction: column;
-        padding-left: 10px;
-    }
+    /*.etaps{*/
+    /*    flex-direction: column;*/
+    /*    !*flex-wrap: wrap;*!*/
+    /*    padding-left: 10px;*/
+    /*    align-items: center;*/
+
+    /*}*/
 }
 
 

@@ -29,14 +29,14 @@ const Navbar = () => {
 
     return (
         <div onClick={e=>hideMenu(e)} className={clas.navBarPage}>
-            <div className={clas.logo}>LOGO</div>
+            <div className={clas.logo}>Company</div>
             <div  className={`${clas.navBar} ${bigMenu ? clas.active : clas.noActive}`}>
-                <a >  Про нас</a>
-                <a >Відгуки </a>
-                <a >  Ціни</a>
-                <a >Наші роботи </a>
-                <a > Контакти</a>
-                <a href="">Замовити дзвінок</a>
+                <a href='/' >  Про нас</a>
+                <a href='/'>Відгуки </a>
+                <a href='/'>  Ціни</a>
+                <a href='/'>Наші роботи </a>
+                <a href='/'> Контакти</a>
+                <a href="/">Замовити дзвінок</a>
             </div>
             <div onClick={openMenu}  className={`${clas.burgerMenu} ${bigMenu ? clas.noActive : clas.active}`} >
                 <img  src={burgerMenu} />

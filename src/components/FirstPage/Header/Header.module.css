@@ -6,43 +6,34 @@
     /*height: 54px;*/
     background: rgba(0, 0, 0, 0.31);
     justify-content: end;
+    align-items: center;
 }
 .numbers{
     display: flex;
+    font-size: 1.3rem;
 }
 .firstNumber , .secondNumber{
     font-family: Gilroy;
     color: #FFFFFF;
-    size: 0.5rem;
-}
-.firstNumber{
     margin-right: 30px;
+}
+.numbers   a{
+    text-decoration: none;
+    color: inherit;
+}
 
-}
-.secondNumber{
-    margin-right: 30px;
-}
 
 
 .icons{
     cursor: pointer;
     white-space: nowrap
 }
-.fb{
+.icons img{
     background-color: transparent;
     margin: 5px;
-
+    height: 20px;
 }
-.inst{
-    background-color: transparent;
-    margin: 5px;
 
-}
-.In{
-    background-color: transparent;
-    margin: 5px;
-
-}
 @media (max-width: 480px) {
     .numbers{
         flex-direction: column;

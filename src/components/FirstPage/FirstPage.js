@@ -15,7 +15,6 @@ const FirstPage = () => {
             <Footer/>
 
 
-            {/*<img src={img} alt=""/>*/}
         </div>
     );
 };

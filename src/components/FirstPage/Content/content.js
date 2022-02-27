@@ -18,7 +18,7 @@ const Content = () => {
 
 
             <div className={clas.btnPutHere}>
-                <a href={'to here'}>
+                <a href='/'>
                     Залишити заявку
                 </a>
             </div>
