@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/verstka1/static/css/main.a93284e2.chunk.css",
-    "main.js": "/verstka1/static/js/main.b3d4cb4e.chunk.js",
-    "main.js.map": "/verstka1/static/js/main.b3d4cb4e.chunk.js.map",
+    "main.css": "/verstka1/static/css/main.c767375c.chunk.css",
+    "main.js": "/verstka1/static/js/main.d428414a.chunk.js",
+    "main.js.map": "/verstka1/static/js/main.d428414a.chunk.js.map",
     "runtime-main.js": "/verstka1/static/js/runtime-main.c23b8af5.js",
     "runtime-main.js.map": "/verstka1/static/js/runtime-main.c23b8af5.js.map",
     "static/js/2.c1035595.chunk.js": "/verstka1/static/js/2.c1035595.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.d9cf0734.chunk.js": "/verstka1/static/js/3.d9cf0734.chunk.js",
     "static/js/3.d9cf0734.chunk.js.map": "/verstka1/static/js/3.d9cf0734.chunk.js.map",
     "index.html": "/verstka1/index.html",
-    "static/css/main.a93284e2.chunk.css.map": "/verstka1/static/css/main.a93284e2.chunk.css.map",
+    "static/css/main.c767375c.chunk.css.map": "/verstka1/static/css/main.c767375c.chunk.css.map",
     "static/js/2.c1035595.chunk.js.LICENSE.txt": "/verstka1/static/js/2.c1035595.chunk.js.LICENSE.txt",
     "static/media/1.3d17fc8b.png": "/verstka1/static/media/1.3d17fc8b.png",
     "static/media/TopSide.module.css": "/verstka1/static/media/1.48c97c62.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.c23b8af5.js",
     "static/js/2.c1035595.chunk.js",
-    "static/css/main.a93284e2.chunk.css",
-    "static/js/main.b3d4cb4e.chunk.js"
+    "static/css/main.c767375c.chunk.css",
+    "static/js/main.d428414a.chunk.js"
   ]
 }
